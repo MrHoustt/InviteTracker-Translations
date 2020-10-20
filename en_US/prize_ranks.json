@@ -1,0 +1,13 @@
+{
+  "greater_than": "The invites amount must be greater than {}.",
+  "rank_added": "You just added the {} role with {} invites required.",
+  "role_not_prize_rank": "This role hasn't been set as a prize rank.",
+  "rank_removed": "You just removed {} from the prize ranks.",
+  "ranks_format": "{} - {} invites required.",
+  "no_ranks": "You didn't configured any prize ranks.",
+  "role_not_allowed": "This type of role is not allowed.",
+  "role_already_defined": "This role has been already defined as a prize rank.",
+  "missing_perms": "The bot is missing the `{}` permission to add prize ranks.",
+  "role_hierarchy": "The role you are trying to add is above the bot role, please place it under the bot role.",
+  "max_prize_ranks": "You can only have a maximum of `{}` prize ranks."
+}

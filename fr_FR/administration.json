@@ -1,0 +1,16 @@
+{
+  "ranks_mode_value": "Vous avez mis à jour la valeur de **highest-mode** à  `{}`.",
+  "keep_ranks_value": "Vous avez mis à jour la valeur de **keep-ranks** à  `{}`.",
+  "bonus_add_everyone": "Vous avez bien ajouté {} invitations bonus à toute les personnes présentes sur le serveur.",
+  "bonus_add_member": "Vous avez bien ajouté {} invitations bonus à {} sur le serveur.",
+  "bonus_remove_everyone": "Vous avez bien retiré {} invitations bonus à toute les personnes présentes sur le serveur.",
+  "bonus_remove_member": "Vous avez bien retiré {} invitations bonus à {} sur le serveur.",
+  "invites_remove_everyone": "Vous avez bien retiré {} invitations à toute les personnes présentes sur le serveur.",
+  "invites_remove_member": "Vous avez bien retiré {} invitations à {} sur le serveur.",
+  "invites_reset_everyone": "Vous avez bien réinitialisé les invitations de toutes les personnes présentes sur le serveur.",
+  "invites_reset_member": "Vous avez bien réinitialisé les invitations de {} sur le serveur.",
+  "prefix_update": "Vous avez changé le prefix du serveur en `{}`.",
+  "lang_update": "Le bot est désormais en `{}`.",
+  "lang_error": "Merci d'utiliser un langage valide:\n`{}`",
+  "bonus_limit": "Erreur, le nombre d'invitations bonus du membre doit être compris entre `{}` et `{}`."
+}

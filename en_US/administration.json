@@ -1,0 +1,16 @@
+{
+  "highest_mode_value": "You sucessfully updated the **highest-mode** value to `{}`.",
+  "keep_ranks_value": "You sucessfully updated the **keep-ranks** value to `{}`.",
+  "bonus_add_everyone": "You successfully added {} bonus invites to everyone on this server.",
+  "bonus_add_member": "You successfully added {} bonus invites to {} on this server.",
+  "bonus_remove_everyone": "You successfully removed {} bonus invites to everyone on this server.",
+  "bonus_remove_member": "You successfully removed {} bonus invites to {} on this server.",
+  "invites_remove_everyone": "You successfully removed {} invites to everyone on this server.",
+  "invites_remove_member": "You successfully removed {} invites to {} on this server.",
+  "invites_reset_everyone": "You successfully reseted everyone's invites on this server.",
+  "invites_reset_member": "You successfully reseted {}'s on this server.",
+  "prefix_update": "You updated this server's prefix to `{}`.",
+  "lang_update": "You updated this server's language to `{}`.",
+  "lang_error": "Please use an available language:\n`{}`",
+  "bonus_limit": "Error, the member's bonus invites must be between `{}` and `{}`."
+}

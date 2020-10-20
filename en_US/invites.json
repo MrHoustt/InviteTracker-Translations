@@ -1,0 +1,9 @@
+{
+  "invites_cant_figure_out": "I can't figure out how {} joined the server.",
+  "invites_vanity": "{} joined using vanity invite.",
+  "invites_oauth": "{} joined using OAuth.",
+  "invites_perm": "{} joined the server, but the bot doesn't have enough permissions to track who invited him.",
+  "leaves_cant_figure_out": "{} leaved the server but I can't figure out how he joined.",
+  "leaves_vanity": "{} leaved the server, he joined using a vanity invite.",
+  "leaves_oauth": "{} leaved the server, he joined using OAuth."
+}

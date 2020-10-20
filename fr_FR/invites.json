@@ -1,0 +1,9 @@
+{
+  "invites_cant_figure_out": "Je n'arrive pas à trouver comment {} a rejoint le serveur",
+  "invites_vanity": "{} a rejoint le serveur en utilisant une invitation discord.gg (vanity invite).",
+  "invites_oauth": "{} a rejoint en utilisant l'OAuth (bot).",
+  "invites_perm": "{} a rejoint le serveur, mais le bot n'a pas suffisament de permissions pour savoir qui l'a invité.",
+  "leaves_cant_figure_out": "{} a quitté le serveur, mais il est impossible de déterminer comment il avait rejoint.",
+  "leaves_vanity": "{} a quitté le serveur, il avait rejoint le serveur en utilisant une invitation discord.gg (vanity invite).",
+  "leaves_oauth": "{} a quitté le serveur, il avait rejoint le serveur en utilisant l'OAuth (bot)."
+}

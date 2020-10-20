@@ -1,0 +1,8 @@
+{
+  "error_title": "Error",
+  "member_missing_perms": "You are missing `{}` permissions to run that command.",
+  "bot_missing_perms": "Bot is missing `{}` permissions to run that command.",
+  "incorrect_cmd_usage": "You didn't used the command correctly.\nUse the command `{}` to see all different usages.",
+  "error": "Sorry, an error occured with the bot.\nPlease join our support discord and report this error [here]({}).",
+  "top_error": "The bot could not load the top page, please grant to the bot the valid permissions."
+}

@@ -1,0 +1,13 @@
+{
+  "greater_than": "Le nombre d'invitation doit être supérieur à {}.",
+  "rank_added": "Vous venez d'ajouter le rôle {} obtenable avec {} invitations.",
+  "role_not_prize_rank": "Ce rôle n'est pas un rôle obtenable avec un nombre d'invitation.",
+  "rank_removed": "Vous avez retiré le rôle {} obtenable avec un nombre d'invitation.",
+  "ranks_format": "{} - {} invitations requises",
+  "no_ranks": "Vous n'avez pas configuré de rôle obtenable avec un nombre d'invitation",
+  "role_not_allowed": "Ce type de rôle n'est pas autorisé.",
+  "role_already_defined": "Ce rôle a déjà est définis en tant que rôle obtenable avec un nombre d'invitation.",
+  "missing_perms": "Il manque la permission `{}` au bot pour ajouter des rôles obtenable avec un nombre d'invitations.",
+  "role_hierarchy": "Le rôle que vous essayez d'ajouter est au dessus du rôle du bot, merci de le placer en dessous.",
+  "max_prize_ranks": "Vous pouvez avoir au maximum `{}` rôles obtenable avec un nombre d'invitations."
+}

@@ -1,0 +1,17 @@
+{
+  "join_msg_title": "Join messages configuration",
+  "join_msg_done": "The join message has been successfully saved.\nJoin messages are now configured and enabled!",
+  "join_msg_value": "You successfully updated the **enable-join-messages** value to `{}`.",
+  "test_join_msg_title": "Join messages test",
+  "join_msg_not_config": "You didn't configured the join messages, type `{}` to do it.",
+  "leave_msg_title": "Leave messages configuration",
+  "leave_msg_done": "The leave message has been successfully saved.\nLeave messages are now configured and enabled!",
+  "leave_msg_value": "You successfully updated the **enable-leave-messages** value to `{}`.",
+  "test_leave_msg_title": "Leave messages test",
+  "leave_msg_not_config": "You didn't configured the leave messages, type `{}` to do it.",
+  "join_dm_msg_title": "Join DM messages configuration",
+  "join_dm_msg_done": "The join DM message has been successfully saved.\nJoin DM messages are now configured and enabled!",
+  "join_dm_msg_value": "You successfully updated the **enable-join-dm-messages** value to `{}`.",
+  "test_join_dm_msg_title": "Join DM messages test",
+  "join_dm_msg_not_config": "You didn't configured the join DM messages, type `{}` to do it."
+}

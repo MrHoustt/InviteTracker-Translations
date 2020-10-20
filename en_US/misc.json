@@ -1,0 +1,6 @@
+{
+  "success": "Success",
+  "error": "Error",
+  "no_spamming": "You are on cooldown for this command, please retry after {:.2f}s.",
+  "no_perm": "You don't have the permission to see the help page for this command."
+}

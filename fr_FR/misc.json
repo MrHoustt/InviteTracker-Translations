@@ -1,0 +1,6 @@
+{
+  "success": "Succès",
+  "error": "Erreur",
+  "no_spamming": "Vous êtes en cooldown pour cette commande, merci de réessayer dans {:.2f}s.",
+  "no_perm": "Vous n'avez pas la permission de voir la page d'aide pour cette commande."
+}

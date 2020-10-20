@@ -1,0 +1,10 @@
+{
+  "add_bot": "You can invite the bot by clicking [here]({}).",
+  "support_link": "You can join our support discord by clicking [here]({}).",
+  "dashboard_link": "You can configure the bot for your server using our dashboard by clicking [here]({}).",
+  "invites_profile": "You currently have **{}** invites. (**{}** regular, **{}** leaved, **{}** fake, **{}** bonus)",
+  "invites_profile_target": "{} currently have **{}** invites. (**{}** regular, **{}** leaved, **{}** fake, **{}** bonus)",
+  "leaderboard_profile": "**{}. {}** - **{}** invites. (**{}** regular, **{}** leaved, **{}** fake, **{}** bonus)",
+  "vote_link": "You can vote for the bot by clicking [here]({}).",
+  "vars_link": "You can check the variables that you can use in join, leave and join dm messages by clicking [here]({})."
+}

@@ -1,0 +1,17 @@
+{
+  "join_msg_title": "Configurer le message de bienvenue",
+  "join_msg_done": "Le message de bienvenue a été correctement sauvegardé.\nMessage de bienvenue configuré et activé.",
+  "join_msg_value": "Vous avez mis à jour la valeur de **enable-join-messages** à `{}`.",
+  "test_join_msg_title": "Test du message de bienvenue",
+  "join_msg_not_config": "Vous n'avez pas configuré le message de bienvenue, tapez `{}` pour le faire !",
+  "leave_msg_title": "Configurer le message de départ",
+  "leave_msg_done": "Le message de départ a été correctement sauvegardé.\nMessage de départ configuré et activé.",
+  "leave_msg_value": "Vous avez mis à jour la valeur de **enable-leave-messages** à `{}`.",
+  "test_leave_msg_title": "Test du message de départ",
+  "leave_msg_not_config": "Vous n'avez pas configuré le message de départ, tapez `{}` pour le faire !",
+  "join_dm_msg_title": "Configurer le message de bienvenue en MP",
+  "join_dm_msg_done": "Le message de bienvenue en MP a été correctement sauvegardé.\nMessage de bienvenue en MP configuré et activé.",
+  "join_dm_msg_value": "Vous avez mis à jour la valeur de **enable-join-dm-messages** à `{}`.",
+  "test_join_dm_msg_title": "Test du message de bienvenue en MP",
+  "join_dm_msg_not_config": "Vous n'avez pas configuré le message de bienvenue en MP, tapez `{}` pour le faire !"
+}

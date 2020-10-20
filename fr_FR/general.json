@@ -1,0 +1,10 @@
+{
+  "add_bot": "Vous pouvez inviter le bot en cliquant [ici]({}).",
+  "support_link": "Vous pouvez rejoindre le discord de support en cliquant [ici]({}).",
+  "dashboard_link": "Vous pouvez configurer le bot pour votre serveur sur le dashboard en cliquant [ici]({}).",
+  "invites_profile": "Vous avez **{}** invitations. (**{}** ordinaires, **{}** partis, **{}** faux, **{}** bonus)",
+  "invites_profile_target": "{} a **{}** invitations. (**{}** ordinaires, **{}** partis, **{}** faux, **{}** bonus)",
+  "leaderboard_profile": "**{}. {}** - **{}** invites. (**{}** ordinaires, **{}** partis, **{}** faux, **{}** bonus)",
+  "vote_link": "Vous pouvez voter pour le bot en cliquant [ici]({}).",
+  "vars_link": "Vous pouvez voir les variables disponibles pour les messages de bienvenue, de départ et de bienvenue en MP [ici]({})."
+}
