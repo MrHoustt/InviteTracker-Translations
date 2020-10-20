@@ -2,7 +2,7 @@
   "error_title": "Erreur",
   "member_missing_perms": "Il vous manque la permission `{}` pour utiliser cette commande.",
   "bot_missing_perms": "Il manque au bot la permission `{}` pour utiliser cette commande.",
-  "incorrect_cmd_usage": "Vous n'avez pas utilisé la commande correctement.\nUtilisez la commande `{}` pour plus d'informations.",
+  "incorrect_cmd_usage": "Vous n'avez pas utilisé la commande correctement.\nMerci d'utiliser `{}`.",
   "error": "Désolé, il y a une erreur avec le bot.\nRejoignez le discord de support et reportez ce problème [ICI]({}).",
   "top_error": "Le bot ne parvient pas à générer la page de classement, merci de lui accorder les permissions nécessaire."
 }
